@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # gin_gorm_kit
 
 ![golangci-lint status](https://github.com/103cuong/gin_gorm_kit/workflows/golangci-lint/badge.svg)

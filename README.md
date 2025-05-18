@@ -21,4 +21,3 @@ go run main.go
 
 MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
-<!-- INSPIRATIONAL_QUOTE_START -->\nAction beats perfection.\n🦖\n<!-- INSPIRATIONAL_QUOTE_END -->

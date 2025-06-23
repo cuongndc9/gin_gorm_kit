@@ -20,5 +20,5 @@ MIT © [Cuong Nguyen](https://www.linkedin.com/in/cuong9/)
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Life is what happens to you while you're busy making other plans." - John Lennon
+> "It is during our darkest moments that we must focus to see the light." - Aristotle
 <!-- INSPIRATIONAL_QUOTE_END -->
